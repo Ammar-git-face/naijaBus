@@ -22,7 +22,7 @@ export default function HomePage() {
 
           <h1 className="text-4xl sm:text-5xl font-bold text-white leading-tight mb-4">
             Book Your Bus Ticket<br />
-            Anywhere in Nigeria
+            Anywhere Anytime in Nigeria
           </h1>
           <p className="text-white text-opacity-90 text-base mb-8 max-w-md mx-auto" style={{ opacity: 0.9 }}>
             Fast, secure, and convenient. Select your route, pick a seat, pay online,
