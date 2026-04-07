@@ -104,7 +104,7 @@ export default function AdminLoginPage() {
         </div>
 
         <p className="text-center text-gray-600 text-xs mt-5">
-          This portal is restricted to authorized administrators only.
+          This portal is restricted to authorized administrators only not users.
         </p>
       </div>
     </div>
